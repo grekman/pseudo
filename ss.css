@@ -31,38 +31,32 @@
   box-shadow: 0px 0px 10px  #000000;
 }
 
-/*.wraper {
-  width: 960px;
-  height: 1400px;
+
+.wraper2 {
   margin: 20px auto;
-  background: #c9c9c9;
+  width:560px;
 
+  position: relative
+}
+
+
+#onePhoto {
+  position: absolute;
+  top: 70px;
+  left:70px;
+  height: 344px;
+  width:560px;
 
 }
 
-.big-set {
-  width: 900px;
-  height: 900px;
-  margin: 20px auto;
-
+#left {
+  position: absolute;
+  top: 357px;
+  left:23px;
 }
 
-.small-set {
-  width: 900px;
-  margin: 20px auto;
-  height: 400px;
+#right {
+  position: absolute;
+  top: 357px;
+  left: 350px;
 }
-
-.block {
-  width: 275px;
-  height: 180px;
-  margin: 10px 12px;
-  float: left;
-  text-align: center;
-
-
-}
-
-.small {
-  height: 178px;
-}*/
